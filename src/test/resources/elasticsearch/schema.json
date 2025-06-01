@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "properties": {
+      "driverId": {
+        "type": "integer"
+      },
+      "location": {
+        "type": "geo_point"
+      }
+    }
+  }
+}
